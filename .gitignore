@@ -1,0 +1,20 @@
+# Dependencies and package-manager cache
+node_modules/
+.pnpm-store/
+
+# Temporary files and local logs
+*.tmp
+*.temp
+*.log
+
+# Operating-system noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated PowerPoint build previews and validation output
+work/ppt_build/node_modules/
+work/ppt_build/slide-*.png
+work/ppt_build/slide-*.layout.json
+work/ppt_build/*.inspect.ndjson
+work/ppt_build/air-power.validation.json

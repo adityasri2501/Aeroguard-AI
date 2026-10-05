@@ -1,0 +1,9149 @@
+{
+  "aircraft": [
+    {
+      "id": "VT-AAT",
+      "type": "FALCON2000",
+      "unit": "Reliance Transport & Travels",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AAZ",
+      "type": "B737-800 (Freighter)",
+      "unit": "Quikjet Cargo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ACD",
+      "type": "BEECH SUPER KING AIR B-300 (350)",
+      "unit": "Target Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ACG",
+      "type": "PC-12/45",
+      "unit": "Aurea Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AEM",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AEN",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AEO",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AEP",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AEQ",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AER",
+      "type": "B777-200 LR",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AFJ",
+      "type": "B737-800 Freighter",
+      "unit": "Afcom Holdings",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AFL",
+      "type": "PC-24",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AFN",
+      "type": "B737-800 Freighter",
+      "unit": "Afcom Holdings",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AFO",
+      "type": "B737-800 Freighter",
+      "unit": "Afcom Holdings",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AGH",
+      "type": "CESSNA 172S",
+      "unit": "Pioneer Flying Academy",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AGL",
+      "type": "Bombardier BD-700-1A10",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AGP",
+      "type": "Hawker 850XP",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AHB",
+      "type": "CESSNA CARAVAN 208B",
+      "unit": "Navdurga Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AHI",
+      "type": "GLOBAL 6000 BD-700-1A10",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AHM",
+      "type": "EMB-135BJ",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AII",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AIT",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AIU",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AIV",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AIW",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AIX",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AIY",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AIZ",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AJM",
+      "type": "HAWKER BEECHCRAFT 900XP",
+      "unit": "Freedom Charter Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AKI",
+      "type": "H160-B",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AKU",
+      "type": "FALCON 900EX",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AKV",
+      "type": "B737-9",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALJ",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALK",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALL",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALM",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALN",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALO",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALP",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALQ",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALR",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALS",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALT",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALU",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ALX",
+      "type": "B777-300 ER",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AMG",
+      "type": "EMB-135BJ (LEGACY 650)",
+      "unit": "Freedom Charter Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AML",
+      "type": "EMB-135BJ LEGACY 650",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANA",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANC",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AND",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANE",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANF",
+      "type": "Beechcraft Premier 1A",
+      "unit": "LCL Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANG",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANH",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANI",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANJ",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANK",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANL",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANM",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANN",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANO",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANP",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANQ",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANR",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANS",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANT",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANU",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANV",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANW",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANX",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANY",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ANZ",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-APL",
+      "type": "Bombardier Challenger 605",
+      "unit": "GSEC Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-APV",
+      "type": "PC-24",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AQL",
+      "type": "PC-24",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ARB",
+      "type": "BELL 407",
+      "unit": "Aryan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ARC",
+      "type": "FALCON 2000",
+      "unit": "AR Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ARF",
+      "type": "FALCON 2000",
+      "unit": "AR Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ARL",
+      "type": "EMB-135BJ",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ARM",
+      "type": "FALCON 2000",
+      "unit": "AR Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ARO",
+      "type": "FALCON 2000",
+      "unit": "AR Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ASC",
+      "type": "AS350B3",
+      "unit": "Arrow Aircrafts Sales & Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ASD",
+      "type": "AS350B3",
+      "unit": "Arrow Aircrafts Sales & Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ASL",
+      "type": "BELL 412 EP",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ASO",
+      "type": "SIKORSKY S-76C++",
+      "unit": "Simm Samm Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ASR",
+      "type": "Global 7500 BD700-2A-12",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AST",
+      "type": "G-150",
+      "unit": "Kairamya Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ASU",
+      "type": "CESSNA CARAVAN 208B",
+      "unit": "IIC Technologies",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ATD",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ATE",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ATG",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ATH",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ATJ",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ATV",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AUS",
+      "type": "Agusta A109E",
+      "unit": "Kyathi Climate Modification Consultants",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AUV",
+      "type": "BOMBARDIER CL-600-2B16 (604 VARIANT)",
+      "unit": "SkyJets International",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AVL",
+      "type": "STEMME S6RT",
+      "unit": "Aryan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AVM",
+      "type": "STEMME S6RT",
+      "unit": "Aryan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AVS",
+      "type": "EMBRAER EMB-500 (Phenom100)",
+      "unit": "Kelachandra Logistics",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AWA",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AWB",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AWC",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXI",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXJ",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXM",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXN",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXP",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXQ",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXR",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXT",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXU",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXW",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXX",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AXZ",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AYA",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AYB",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AYC",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AYD",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AYV",
+      "type": "FALCON 2000LX",
+      "unit": "Bajaj Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-AZS",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BAF",
+      "type": "BEECHCRAFT KING AIR B200",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BAS",
+      "type": "SKA B200",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BAZ",
+      "type": "B737-800 (Freighter)",
+      "unit": "Quikjet Cargo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BBD",
+      "type": "CHALLENGER 650 CL-600-2B16",
+      "unit": "Forum I Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BBN",
+      "type": "Beechcraft Premier1A-390",
+      "unit": "Avocet Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDA",
+      "type": "B757-200F",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDB",
+      "type": "B757-200F",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDC",
+      "type": "B737-800 Freighter",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDD",
+      "type": "B737-800 Freighter",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDM",
+      "type": "B757-200F",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDN",
+      "type": "B757-200F",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDO",
+      "type": "B757-200F",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BDQ",
+      "type": "B757-200F",
+      "unit": "Blue Dart Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BGM",
+      "type": "A109S",
+      "unit": "Shivan Aadithya Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BHH",
+      "type": "EC 135P3H",
+      "unit": "Hyderabad Airlines",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BIG",
+      "type": "T210 ULTRAMAGIC (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BIP",
+      "type": "CITATION 525A",
+      "unit": "Kairamya Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BKA",
+      "type": "BELL 407",
+      "unit": "Aryan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BKJ",
+      "type": "AS 350 B3",
+      "unit": "Himalayan Heli Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BKK",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BMS",
+      "type": "CESSNA T206H",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BNB",
+      "type": "Beechcraft Premier1A-390",
+      "unit": "Avocet Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BOB",
+      "type": "H160-B",
+      "unit": "Shivan Aadithya Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BOM",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BOS",
+      "type": "Robinson R44 RAVEN II",
+      "unit": "Aone Helicopters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BRK",
+      "type": "FALCON 2000EX",
+      "unit": "GMR Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BSG",
+      "type": "AS 350 B3 ECUREUIL",
+      "unit": "Himalayan Heli Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BSL",
+      "type": "CESSNA CITATION 560XL",
+      "unit": "Redbird Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BST",
+      "type": "A109S",
+      "unit": "Shivan Aadithya Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BVV",
+      "type": "FALCON2000LX",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWA",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWB",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWC",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWD",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWE",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWF",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWG",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWH",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWI",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWJ",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWK",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWL",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWM",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWN",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWO",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWP",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWQ",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWR",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWS",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWT",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWU",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWV",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWW",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BWX",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXA",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXB",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXC",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXD",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXE",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXF",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXG",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXH",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXI",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXJ",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXK",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXL",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXM",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXN",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXO",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXP",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXQ",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXR",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXS",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXT",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXU",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXV",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXW",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXX",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXY",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-BXZ",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CCA",
+      "type": "Bombardier Global 6500",
+      "unit": "Poonawalla Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CDC",
+      "type": "Bombardier Global 6500",
+      "unit": "Poonawalla Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CDP",
+      "type": "Bombardier Global 6000",
+      "unit": "Poonawalla Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CID",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIE",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIF",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIG",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIH",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIM",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIN",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIO",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIP",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CIQ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CLA",
+      "type": "CESSNA CITATION 560 XL",
+      "unit": "AR Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CLB",
+      "type": "CESSNA CITATION II",
+      "unit": "AR Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CLF",
+      "type": "FALCON 2000",
+      "unit": "AR Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CLN",
+      "type": "AGUSTA A119 KOALA",
+      "unit": "Kestrel Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CMR",
+      "type": "EMB 135BJ (Legacy600)",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CND",
+      "type": "H160-B",
+      "unit": "Poonawalla Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CNJ",
+      "type": "ROBINSON R44",
+      "unit": "Aman Aviation & Aerospace Solutions",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CNS",
+      "type": "Super King Air B300",
+      "unit": "AAI Flight Inspection Unit",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CRA",
+      "type": "LEARJET-45",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CSL",
+      "type": "Bell 429",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CSP",
+      "type": "CESSNA CITATION 560XL",
+      "unit": "Navdurga Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CVA",
+      "type": "CHALLENGER 605 CL-600-2B16",
+      "unit": "Charlie Foxtrot Aviation Service",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CVB",
+      "type": "CHALLENGER 605 CL-600-2B16",
+      "unit": "Charlie Foxtrot Aviation Service",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CVC",
+      "type": "CL-600-2B16 CL 604 VARIANT (CL605)",
+      "unit": "Charlie Foxtrot Aviation Service",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CVD",
+      "type": "CL-600-2B16 CL 604 VARIANT (CL605)",
+      "unit": "Charlie Foxtrot Aviation Service",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CVE",
+      "type": "CL-600-2B16 CL 604 VARIANT (CL605)",
+      "unit": "Charlie Foxtrot Aviation Service",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-CVV",
+      "type": "CESSNA CITATION 560XL EXCEL",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DAX",
+      "type": "ECUREUIL AS-355 F1",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DBH",
+      "type": "S-76C++",
+      "unit": "Suhan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DBJ",
+      "type": "AW169",
+      "unit": "Falcon Aviation Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DBL",
+      "type": "LEARJET-45 XR",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DCB",
+      "type": "AS 350 B3",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DCV",
+      "type": "EC-130 B4",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DEJ",
+      "type": "King Air C90A",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DEV",
+      "type": "CESSNA CARAVAN 208B",
+      "unit": "Ventura Airconnect",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DHA",
+      "type": "GLOBAL EXPRESS BD-700",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DIA",
+      "type": "BD-700-1A11(GLOBAL 5500)",
+      "unit": "EHA Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DJB",
+      "type": "Beech SKA B200GT",
+      "unit": "RAJHANS INFRACON",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DOV",
+      "type": "CESSNA CITATION CJ2",
+      "unit": "Bluecraft Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DVG",
+      "type": "AS 350 B3",
+      "unit": "Davangere Sugar Company",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-DVV",
+      "type": "CESSNA CITATION 560XL EXCEL",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ECG",
+      "type": "Citation 525A CJ2+",
+      "unit": "EMSOS Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EDC",
+      "type": "A320-214",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EDD",
+      "type": "A320-214",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EDE",
+      "type": "A320-214",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EDF",
+      "type": "A320-214",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EHB",
+      "type": "SKA B200",
+      "unit": "Redbird Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EJZ",
+      "type": "King Air C90A",
+      "unit": "Redbird Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELD",
+      "type": "SA 365N",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELE",
+      "type": "DAUPHIN 2",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELG",
+      "type": "SA 365N",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELI",
+      "type": "DAUPHIN 2",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELL",
+      "type": "DAUPHIN 2",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELN",
+      "type": "DAUPHIN 2",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELS",
+      "type": "SA 365N",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELT",
+      "type": "DAUPHIN 2",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ELX",
+      "type": "Twin Otter DHC-6-300",
+      "unit": "Saarthi Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EMJ",
+      "type": "King Air C90A",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ENW",
+      "type": "DAUPHIN 2",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ENZ",
+      "type": "DAUPHIN 2",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EPU",
+      "type": "Dornier DO-228-201",
+      "unit": "AAI Flight Inspection Unit",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EQN",
+      "type": "King Air C90A",
+      "unit": "Redbird Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXA",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXB",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXC",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXD",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXE",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXF",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXG",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXH",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXI",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXJ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXK",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXL",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXM",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXN",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXO",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXP",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXQ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXR",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXS",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXT",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXU",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-EXV",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FAE",
+      "type": "SUPER KINGAIR B200",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FAF",
+      "type": "HAWKER 800XP",
+      "unit": "Forum I Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FAR",
+      "type": "T210 ULTRAMAGIC (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FCA",
+      "type": "TECNAM P2010TDI",
+      "unit": "Aviation Connectivity & Infrastructure Developers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FIB",
+      "type": "ATR72-600",
+      "unit": "Fly91",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FIC",
+      "type": "ATR72-600",
+      "unit": "Fly91",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FID",
+      "type": "ATR72-600",
+      "unit": "Fly91",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FIE",
+      "type": "ATR72-600",
+      "unit": "Fly91",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FIF",
+      "type": "ATR72-600",
+      "unit": "Fly91",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FIG",
+      "type": "ATR72-600",
+      "unit": "Fly91",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FIS",
+      "type": "Super King Air B300",
+      "unit": "AAI Flight Inspection Unit",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FIU",
+      "type": "Super King Air B300",
+      "unit": "AAI Flight Inspection Unit",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FLO",
+      "type": "ULTRAMAGIC N-425 (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FLX",
+      "type": "Falcon2000LX",
+      "unit": "Empire Aircraft Management Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FOR",
+      "type": "AGUSTA A109E",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-FUN",
+      "type": "CAMERON A-120 (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GDC",
+      "type": "SIKORSKY S-76D",
+      "unit": "Golden Crane Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GEM",
+      "type": "CESSNA172S",
+      "unit": "Bativala M Bhagvati Flying Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHA",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHB",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHC",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHD",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHE",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHF",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHI",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHK",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GHS",
+      "type": "AGUSTA A109S",
+      "unit": "Aviation Division",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GIC",
+      "type": "CESSNA T206H",
+      "unit": "Fairwinds Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GIM",
+      "type": "AW109SP",
+      "unit": "Carewell Aviation India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GKA",
+      "type": "AW169",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GKB",
+      "type": "Gulfstream G-150",
+      "unit": "HN Safal Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GOA",
+      "type": "CAMERON A-210 (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GPS",
+      "type": "EMB-135BJ (LEGACY 650)",
+      "unit": "FLYSBS AVIATION",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GRA",
+      "type": "AS350B3E",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GRB",
+      "type": "BELL 407GXP",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GRC",
+      "type": "AS350B3",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GRD",
+      "type": "BELL412EP",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSD",
+      "type": "EC-135",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSE",
+      "type": "EMB-145LR",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSH",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSI",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSJ",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSK",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSM",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSO",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSQ",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSR",
+      "type": "EC-135T3H",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GSU",
+      "type": "EMB-170",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVA",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVF",
+      "type": "AS 350 B3",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVK",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVL",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVM",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVP",
+      "type": "AW 139",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVT",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVW",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVX",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVY",
+      "type": "BELL 412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GVZ",
+      "type": "AW169",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-GYN",
+      "type": "CESSNA T206H",
+      "unit": "Fairwinds Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HAB",
+      "type": "AW169",
+      "unit": "Himanad Management Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HAU",
+      "type": "ALH (DHRUV)",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HAX",
+      "type": "A109E",
+      "unit": "Syandan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HBX",
+      "type": "HAWKER 400A XP",
+      "unit": "Target Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HEX",
+      "type": "EC-130T2",
+      "unit": "United Helicharters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HFX",
+      "type": "EC-130T2",
+      "unit": "Syandan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HGL",
+      "type": "FALCON 2000",
+      "unit": "Modifi Aviations",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HGX",
+      "type": "A109S",
+      "unit": "Syandan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HHB",
+      "type": "AS 350 B3",
+      "unit": "Himalayan Heli Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HHC",
+      "type": "AS 350 B3E",
+      "unit": "Himalayan Heli Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HHD",
+      "type": "AS 350 B3E",
+      "unit": "Himalayan Heli Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HIX",
+      "type": "EC130T2",
+      "unit": "Heritage Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HJS",
+      "type": "Cessna Grand Caravan 208B",
+      "unit": "IndiaOne Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HJX",
+      "type": "AS350B3E",
+      "unit": "Heritage Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HKB",
+      "type": "BELL429",
+      "unit": "Kelachandra Logistics",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HKL",
+      "type": "BELL412",
+      "unit": "Dhillon Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HKX",
+      "type": "AS350B3E",
+      "unit": "Heritage Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLD",
+      "type": "AW139",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLH",
+      "type": "AW139",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLI",
+      "type": "AS 365 N3",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLJ",
+      "type": "AS 365 N3",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLP",
+      "type": "H145",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLQ",
+      "type": "H145",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLR",
+      "type": "AW139",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLS",
+      "type": "BELL 412EP",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLT",
+      "type": "BELL 412EP",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLU",
+      "type": "AW139",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLV",
+      "type": "BELL 412 EPI",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLW",
+      "type": "H145",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLX",
+      "type": "H145",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLY",
+      "type": "H145",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HLZ",
+      "type": "H145",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HMA",
+      "type": "GLOBAL EXPRESS BD-700",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HNA",
+      "type": "Gulfstream G-150",
+      "unit": "HN Safal Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HNB",
+      "type": "AW139",
+      "unit": "Heligo Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HNC",
+      "type": "ROBINSON-44 RAVEN II",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HOX",
+      "type": "EC130T2",
+      "unit": "Heritage Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HSR",
+      "type": "CESSNA 206H",
+      "unit": "IIC Technologies",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HUH",
+      "type": "BD-700-1A10(G6000)",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HVV",
+      "type": "FALCON 7X (M 1000)",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-HYA",
+      "type": "KING AIR C 90A",
+      "unit": "SKB Infracons",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAH",
+      "type": "A319-115 CJ",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAN",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAO",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAQ",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAR",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAS",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAX",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IAZ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBA",
+      "type": "EC135P2+",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBB",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBC",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBD",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBE",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBF",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBH",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBI",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBJ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBK",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBL",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBM",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBN",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBO",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBQ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBT",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBU",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBV",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBW",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBX",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBY",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IBZ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICB",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICC",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICD",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICF",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICG",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICI",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICK",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICL",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICM",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICN",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICO",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICP",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICQ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICR",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICS",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICT",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICV",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICW",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICX",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ICY",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFH",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFI",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFK",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFL",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFM",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFN",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFP",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFQ",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFR",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFS",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFV",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IFZ",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIA",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIB",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIC",
+      "type": "CESSNA CARAVAN 208B",
+      "unit": "IIC Technologies",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IID",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIE",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIF",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIG",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIH",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIJ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIK",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIL",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIM",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIN",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIO",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIP",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIQ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIR",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIS",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIU",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIV",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIW",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIX",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIY",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IIZ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJI",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJN",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJQ",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJS",
+      "type": "CESSNA R172K",
+      "unit": "Bativala M Bhagvati Flying Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJT",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJV",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJX",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJY",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IJZ",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKK",
+      "type": "A320-232",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKP",
+      "type": "A320-214",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKQ",
+      "type": "A320-214",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKR",
+      "type": "AGUSTA A109S",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKS",
+      "type": "A320-214",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKT",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKU",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKW",
+      "type": "A321-211 (Freighter)",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKX",
+      "type": "A321-211 (Freighter)",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IKY",
+      "type": "A321-211 (Freighter)",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILB",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILC",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILD",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILE",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILF",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILG",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILH",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILI",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILJ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILL",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILM",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILN",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILO",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILP",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILQ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILR",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILS",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILT",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILU",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILV",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILW",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILX",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILY",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ILZ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMB",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMC",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMD",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IME",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMG",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMH",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMI",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMJ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMK",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IML",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMM",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMN",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMQ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMR",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMS",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMU",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMV",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMW",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMX",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMY",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IMZ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOF",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOG",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOH",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOI",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOJ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOK",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOL",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOM",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ION",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOO",
+      "type": "PC-12/45",
+      "unit": "Ventura Airconnect",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOQ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOR",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOT",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IOU",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPA",
+      "type": "Cessna Citation III (650)",
+      "unit": "Redbird Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPC",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPD",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPE",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPF",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPG",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPH",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPI",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPJ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPK",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPL",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPM",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPN",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPO",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPP",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPQ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPR",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPS",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPT",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPU",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPV",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPW",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPX",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPY",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IPZ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQA",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQB",
+      "type": "BELL206 L4",
+      "unit": "Dhillon Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQC",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQD",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQE",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQF",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQG",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQH",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQI",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQJ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQK",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQL",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQM",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQN",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQO",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQP",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQS",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQT",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQU",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQV",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQX",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQY",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IQZ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRA",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRB",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRD",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRE",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRF",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRG",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRH",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRI",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRJ",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRK",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRL",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRM",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRN",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRO",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRP",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRQ",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRR",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRS",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRV",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRW",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRX",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRY",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IRZ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISA",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISB",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISC",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISD",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISE",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISF",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISG",
+      "type": "EC-130 T2",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISI",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISJ",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISK",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISL",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISM",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISN",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISO",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISP",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISQ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISR",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISS",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IST",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISU",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISV",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISW",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISX",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISY",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ISZ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITB",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITG",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITI",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITK",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITL",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITN",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITO",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITP",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITQ",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITR",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITS",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITT",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITU",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITV",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITW",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITX",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITY",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ITZ",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUO",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUP",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUQ",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUR",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUS",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUT",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUU",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUV",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUW",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUX",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUY",
+      "type": "A321-271NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IUZ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVA",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVB",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVC",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVD",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVE",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVF",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVK",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVP",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVQ",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVX",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVY",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IVZ",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWM",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWN",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWQ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWT",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWU",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWV",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWW",
+      "type": "A320-214",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWX",
+      "type": "A320-214",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWY",
+      "type": "A320-214",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IWZ",
+      "type": "A320-214",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXA",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXC",
+      "type": "TECNAM P2010TDI",
+      "unit": "Aviation Connectivity & Infrastructure Developers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXD",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXE",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXF",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXG",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXH",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXI",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXJ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXK",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXL",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXM",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXN",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXO",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXP",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXQ",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXR",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXS",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXT",
+      "type": "A320-251N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXV",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXW",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXX",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXY",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IXZ",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYA",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYB",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYC",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYD",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYE",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYF",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYG",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYH",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYI",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYJ",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYK",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYL",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYO",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYP",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYQ",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYS",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYU",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYX",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYY",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IYZ",
+      "type": "ATR72-600",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZB",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZC",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZD",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZE",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZF",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZH",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZK",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZL",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZM",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZN",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-IZV",
+      "type": "A320-271N",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JHK",
+      "type": "ULTRAMAGIC T-210 (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JHP",
+      "type": "HAWKER 850XP",
+      "unit": "Fern Aviation India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JIB",
+      "type": "BELL 407",
+      "unit": "Trans Bharat Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JIL",
+      "type": "King Air C90A",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JIO",
+      "type": "AS 365 N3",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JIT",
+      "type": "AGUSTA 109E",
+      "unit": "Himalyaputra Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JJA",
+      "type": "MI-172",
+      "unit": "Sky One Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JJL",
+      "type": "AW109SP",
+      "unit": "Joyalukkas India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JMG",
+      "type": "BEECH CRAFT KING AIR B200GT",
+      "unit": "Himalyaputra Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JMN",
+      "type": "EMBRAER 135ER",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JMR",
+      "type": "EMBRAER ERJ 170-200 LR",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JPA",
+      "type": "A109E",
+      "unit": "Lakeworkoffice Club",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JPH",
+      "type": "BELL 407",
+      "unit": "Arrow Aircrafts Sales & Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JPK",
+      "type": "King Air C90A",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JPV",
+      "type": "BEECH SUPER KING AIR B-200GT",
+      "unit": "Target Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JRA",
+      "type": "A350-941",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JRB",
+      "type": "A350-941",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JRE",
+      "type": "A350-941",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JRF",
+      "type": "A350-941",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JRG",
+      "type": "HAWKER900XP",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JRH",
+      "type": "A350-941",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JRI",
+      "type": "A350-941",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSA",
+      "type": "AW-139 AGUSTA",
+      "unit": "India Flysafe Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSC",
+      "type": "PILATUS PC-12/47E",
+      "unit": "India Flysafe Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSD",
+      "type": "Leonardo AW169",
+      "unit": "Sapphire Airlines",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSF",
+      "type": "GRAND AGUSTA 109S",
+      "unit": "India Flysafe Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSH",
+      "type": "BELL-429",
+      "unit": "Span Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSI",
+      "type": "EMBRAER EMB-135LR",
+      "unit": "India Flysafe Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSJ",
+      "type": "BD-700-2A12 (G7500)",
+      "unit": "Sapphire Airlines",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSQ",
+      "type": "PILATUS PC-12/47E",
+      "unit": "India Flysafe Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JST",
+      "type": "BD-100-1A10 (Challenger3500)",
+      "unit": "Sapphire Airlines",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JSX",
+      "type": "BD-100-1A10",
+      "unit": "India Flysafe Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JVS",
+      "type": "BELL 206 L4",
+      "unit": "Malhotra Helikopters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-JVV",
+      "type": "CESSNA CITATION 560XL EXCEL",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KBS",
+      "type": "AS350B2",
+      "unit": "Pinnacle Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KCM",
+      "type": "Superking Air B200",
+      "unit": "Kyathi Climate Modification Consultants",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KGA",
+      "type": "PC-24",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KGV",
+      "type": "HAWKER 900XP",
+      "unit": "Kingscraft Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KHA",
+      "type": "SIKORSKY S-76C++",
+      "unit": "Kainos Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KJK",
+      "type": "EMB-500 (PHENOM 100E)",
+      "unit": "TAI Jets",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KJR",
+      "type": "EMB-135BJ (LEGACY 650)",
+      "unit": "TAI Jets",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KJS",
+      "type": "King Air C90GTI",
+      "unit": "Pinnacle Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KNB",
+      "type": "HAWKER 850XP",
+      "unit": "Forum I Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KNG",
+      "type": "BELL 412 EP",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KNH",
+      "type": "Sikorsky S-76C",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KNP",
+      "type": "DO 228-201 (UPGRADED)",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KOL",
+      "type": "Embraer EMB-135 (Legacy 600)",
+      "unit": "Carewell Aviation India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KPR",
+      "type": "EC130T2",
+      "unit": "Dadachanji Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KSA",
+      "type": "BELL 407",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KSE",
+      "type": "Falcon900EX",
+      "unit": "Skyblue Aviation Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KTC",
+      "type": "TECNAM P2010TDI",
+      "unit": "Aviation Connectivity & Infrastructure Developers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KTK",
+      "type": "BELL 429",
+      "unit": "Niraant Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KVR",
+      "type": "Hawker-4000",
+      "unit": "Transworld Jets",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KVV",
+      "type": "A109S",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-KZN",
+      "type": "GULFSTREAM G150",
+      "unit": "Khazana Jewellery",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-LIB",
+      "type": "Hawker 800XP",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-LJH",
+      "type": "AGUSTA A109S",
+      "unit": "Saarthi Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-LKK",
+      "type": "BEECH SUPER KING AIR B-200",
+      "unit": "Flaps Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-LMW",
+      "type": "Beech Superking Air B200",
+      "unit": "Sreeji Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-LTC",
+      "type": "HAWKER HS 125 900XP",
+      "unit": "L & T Aviation Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MAE",
+      "type": "MI-172",
+      "unit": "Sky One Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MAL",
+      "type": "ROBINSON R66",
+      "unit": "Maharaja Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MAM",
+      "type": "Learjet 60XR",
+      "unit": "MAB Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MAN",
+      "type": "ROBINSON R66",
+      "unit": "Mandke and Mandke Infrastructure",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MAY",
+      "type": "Bombardier BD-100-1A10",
+      "unit": "Mahindra Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MEG",
+      "type": "PILATUS PC-12",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MEL",
+      "type": "Beechcraft Premier 1A-390",
+      "unit": "Pinnacle Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MHM",
+      "type": "EC135P2+",
+      "unit": "Innxt Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MIR",
+      "type": "BD-700-2A12(G7500)",
+      "unit": "RPSG Resources",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MNK",
+      "type": "EC-130T2",
+      "unit": "Media House DND",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MON",
+      "type": "Cessna Citation CJ2 525A",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MPG",
+      "type": "SUPER KING AIR B200",
+      "unit": "Saarthi Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MPT",
+      "type": "Beech Superking Air B200",
+      "unit": "Sreeji Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MUM",
+      "type": "Hawker 800XP",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MVV",
+      "type": "A109S",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MXD",
+      "type": "B737-8",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MXE",
+      "type": "B737-8",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-MXI",
+      "type": "B737-8",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NAA",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NAB",
+      "type": "CESSNA CITATION CJ1+525",
+      "unit": "SkyJets International",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NAC",
+      "type": "B787-8",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NAD",
+      "type": "Bombardier Global 6500",
+      "unit": "Poonawalla Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NAL",
+      "type": "BELL407GX",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NAP",
+      "type": "H145",
+      "unit": "Poonawalla Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NAV",
+      "type": "BELL412EP",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCA",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCB",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCC",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCD",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCE",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCF",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCG",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCI",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCJ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCK",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCL",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCN",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCP",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCQ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCR",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCS",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCU",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCV",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCW",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCY",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NCZ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NDA",
+      "type": "CITATION 525A CJ2+",
+      "unit": "Dunes Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NDN",
+      "type": "ROBINSON R66",
+      "unit": "Maharaja Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHA",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHB",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHC",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHD",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHE",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHF",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHG",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHH",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHI",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHJ",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHK",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHL",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHM",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHN",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHO",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHP",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHR",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NHX",
+      "type": "A321-252NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NIT",
+      "type": "SIKORSKY S-76 C++",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NJP",
+      "type": "BELL-407GX",
+      "unit": "KAN Aerofoil",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NKF",
+      "type": "King Air C90B",
+      "unit": "Pinnacle Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NKS",
+      "type": "EMB135BJ (LEGACY 650)",
+      "unit": "EHA Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NLA",
+      "type": "A321-253NY",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NLB",
+      "type": "A321-253NY",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NLC",
+      "type": "A321-253NY",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NMA",
+      "type": "SIKORSKY S-76 C++",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NOC",
+      "type": "A321-251NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NOF",
+      "type": "A321-251NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NOG",
+      "type": "A321-251NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NOI",
+      "type": "A321-251NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NOL",
+      "type": "A321-251NX",
+      "unit": "IndiGo",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NRJ",
+      "type": "AS365N3",
+      "unit": "Aman Aviation & Aerospace Solutions",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NSG",
+      "type": "EMB 135 (Legacy600)",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NSS",
+      "type": "AS350B3E",
+      "unit": "PILGRIMAGE AVIATION",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NTA",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-NTB",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OBR",
+      "type": "HAWKER 850XP",
+      "unit": "EIH",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OJS",
+      "type": "ROBINSON-44 RAVEN II",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OMG",
+      "type": "ULTRAMAGIC N-355 (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OMM",
+      "type": "EMB-135BJ",
+      "unit": "Reliance Transport & Travels",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OSC",
+      "type": "A109E",
+      "unit": "Lakeworkoffice Club",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OSH",
+      "type": "AGUSTA A109SP",
+      "unit": "OSS Air Management",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OSN",
+      "type": "A109E",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OSR",
+      "type": "A109E",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-OXL",
+      "type": "EMB-135 (LEGACY 600)",
+      "unit": "Aerokalinga Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PBS",
+      "type": "Bell427",
+      "unit": "B.G. Shirke Construction Technology",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PCR",
+      "type": "G-200",
+      "unit": "Jatayu",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PEC",
+      "type": "EC 135 P2+",
+      "unit": "LMCS Infra Holdings",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PFA",
+      "type": "CESSNA 172S",
+      "unit": "Pioneer Flying Academy",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PGA",
+      "type": "PC-24",
+      "unit": "Karnavati Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHA",
+      "type": "BELL 206 L4",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHE",
+      "type": "BELL 206 L4",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHG",
+      "type": "MI-172",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHI",
+      "type": "BELL 407",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHJ",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHL",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHM",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHN",
+      "type": "BELL 407",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHQ",
+      "type": "BELL 407",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHR",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHS",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHU",
+      "type": "ECUREUIL AS 350 B3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHV",
+      "type": "ECUREUIL AS 350 B3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHW",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHX",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHY",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PHZ",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PLC",
+      "type": "FALCON 2000EX",
+      "unit": "Vijayanand Travels",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PLV",
+      "type": "G-150",
+      "unit": "Vijayanand Travels",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PMO",
+      "type": "BEECHCRAFT PREMIER 1A-390",
+      "unit": "Saffron Strokes",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PNJ",
+      "type": "BELL-407GX",
+      "unit": "KAN Aerofoil",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PNS",
+      "type": "A320-232",
+      "unit": "Pradhaan Air Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-POP",
+      "type": "Hawker 800XP",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPH",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPI",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPJ",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPK",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPL",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPM",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPO",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPQ",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPT",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPU",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPV",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPW",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PPX",
+      "type": "A321-211",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PRI",
+      "type": "Global 7500 BD700-2A-12",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PRM",
+      "type": "EMBRAER 190-100ECJ (Lineage 1000)",
+      "unit": "Mytri Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PRS",
+      "type": "Cessna Grand Caravan 208B",
+      "unit": "IndiaOne Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PRY",
+      "type": "HAWKER 900XP",
+      "unit": "Span Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PSA",
+      "type": "BELL-407",
+      "unit": "Pinnacle Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PSB",
+      "type": "Citation 525A",
+      "unit": "Kakini Enterprises",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PVK",
+      "type": "EMBRAER 135BJ",
+      "unit": "Mytri Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PVS",
+      "type": "H160-B",
+      "unit": "Reliance Commercial Dealers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PVV",
+      "type": "CITATION 525A CJ2+",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWB",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWC",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWD",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWE",
+      "type": "DAUPHIN AS 365 N3",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWJ",
+      "type": "SIKORSKY S-76D",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWK",
+      "type": "SIKORSKY S-76D",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWL",
+      "type": "SIKORSKY S-76D",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-PWM",
+      "type": "SIKORSKY S-76D",
+      "unit": "Pawan Hans",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RAG",
+      "type": "ULTRAMAGIC M-105",
+      "unit": "Rajas Aerosports and Adventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RAJ",
+      "type": "Agusta A109E",
+      "unit": "Golden Crane Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RAM",
+      "type": "KINGAIR C90B",
+      "unit": "Redbird Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RAS",
+      "type": "BEECH SUPER KING AIR B-200",
+      "unit": "Flaps Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RBB",
+      "type": "TECNAM P2006T",
+      "unit": "Redbird Flight Training Academy",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RBG",
+      "type": "BELL 206 L4",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RBO",
+      "type": "ULTRAMAGIC N-210",
+      "unit": "Rajas Aerosports and Adventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RDS",
+      "type": "EMB135BJ (LEGACY 650)",
+      "unit": "GMR Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-REM",
+      "type": "BEECH SUPER KING AIR B-200",
+      "unit": "Flaps Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RFX",
+      "type": "Hawker900XP",
+      "unit": "Sparzana Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGL",
+      "type": "AS350B3",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGM",
+      "type": "AS350B3",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGO",
+      "type": "H160-B",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGP",
+      "type": "MBB-BK117 D-3",
+      "unit": "Star Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGQ",
+      "type": "Airbus H145 D3 (MBB-BK117 D-3)",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGR",
+      "type": "H160-B",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGY",
+      "type": "H160-B",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RGZ",
+      "type": "H160-B",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RIM",
+      "type": "GULFSTREAM GV-SP (G550)",
+      "unit": "IRM",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RIO",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RJA",
+      "type": "BEECH SUPER KING AIR B-200",
+      "unit": "Avenor Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RJF",
+      "type": "AS350B3",
+      "unit": "Rajas Aerosports and Adventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RJG",
+      "type": "AS350B3",
+      "unit": "Rajas Aerosports and Adventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RJH",
+      "type": "AS350B3",
+      "unit": "Rajas Aerosports and Adventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RJL",
+      "type": "Cessna Citation 560XL",
+      "unit": "Rajas Aerosports and Adventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RJM",
+      "type": "AS350B3",
+      "unit": "Rajas Aerosports and Adventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKC",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKD",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKE",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKF",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKG",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKH",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKJ",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKK",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKL",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKM",
+      "type": "ATR72-600",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKP",
+      "type": "FALCON 2000EX",
+      "unit": "Property Ventures (India)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKR",
+      "type": "A109S",
+      "unit": "Shivan Aadithya Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKS",
+      "type": "BEECH SUPER KING AIR 250 B-200GT",
+      "unit": "Property Ventures (India)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RKV",
+      "type": "EC-130T2",
+      "unit": "Property Ventures (India)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RLB",
+      "type": "BELL 206 L3",
+      "unit": "Malhotra Helikopters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RMX",
+      "type": "AS350B3E",
+      "unit": "Heritage Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RNT",
+      "type": "B737-8",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RPB",
+      "type": "EC130T2",
+      "unit": "Smart Wings Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RPO",
+      "type": "BELL 407",
+      "unit": "Chipsan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRA",
+      "type": "AS 350 B3e",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRB",
+      "type": "AS 350 B3e",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRC",
+      "type": "AW169",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRD",
+      "type": "BELL412 EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRE",
+      "type": "AW139",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRF",
+      "type": "BELL412EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRG",
+      "type": "AW169",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRH",
+      "type": "AS 350 B3e",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRI",
+      "type": "BELL412EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRJ",
+      "type": "BELL412EP",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRK",
+      "type": "AW169",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRL",
+      "type": "AW169",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRN",
+      "type": "AW169",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRO",
+      "type": "AW169",
+      "unit": "Global Vectra Helicorp",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRP",
+      "type": "Bell407GXP",
+      "unit": "Baramati Agro",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RRR",
+      "type": "BEECHCRAFT PREMIER 1A-390",
+      "unit": "Shivan Aadithya Air Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RSG",
+      "type": "FALCON 2000EX",
+      "unit": "Saarthi Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RSL",
+      "type": "Beech Kingair C90A",
+      "unit": "Flaps Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RSM",
+      "type": "BEECHCRAFT KING AIR B200",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RSN",
+      "type": "Super King Air B-200",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTB",
+      "type": "A321-251NX",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTC",
+      "type": "A321-251NX",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTD",
+      "type": "A321-251NX",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTE",
+      "type": "A321-251NX",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTF",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTG",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTH",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTI",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTJ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTK",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTL",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTM",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTN",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTO",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTP",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTQ",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTS",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTT",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTU",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTV",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTW",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTX",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTY",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RTZ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-RUN",
+      "type": "ULTRAMAGIC N-250 (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SBJ",
+      "type": "AS350B3",
+      "unit": "Shraddha Energy and Infraprojects",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SCF",
+      "type": "A319-112",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SCH",
+      "type": "A319-112",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SCM",
+      "type": "A319-112",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SCQ",
+      "type": "A319-112",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SCR",
+      "type": "A319-112",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SCV",
+      "type": "A319-112",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SDD",
+      "type": "ROBINSON R44",
+      "unit": "Maharaja Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SDS",
+      "type": "EC130-T2",
+      "unit": "Thumby Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SES",
+      "type": "EC-130T2",
+      "unit": "Syandan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SFB",
+      "type": "B737-700F/800F",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SFD",
+      "type": "B737-700F/800F",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SFE",
+      "type": "B737-700F/800F",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SFU",
+      "type": "Embraer EMB-135 (Legacy 600)",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SGG",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SGJ",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SGV",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SHE",
+      "type": "Twin Otter DHC-6",
+      "unit": "Skyhop Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SHG",
+      "type": "Bombardier Global 5000",
+      "unit": "RPSG Resources",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SHL",
+      "type": "PA-46-350P",
+      "unit": "Steamhouse India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SIL",
+      "type": "EUROCOPTER AS355N",
+      "unit": "Aryan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SIM",
+      "type": "AS365N2 DAUPHIN",
+      "unit": "Aryan Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SKB",
+      "type": "MI-172",
+      "unit": "Sky One Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SKE",
+      "type": "MI-172",
+      "unit": "Sky One Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SKH",
+      "type": "MI-171A2",
+      "unit": "Sky One Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SKJ",
+      "type": "PC-12/47E",
+      "unit": "Everdeliver Logistics",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SKN",
+      "type": "Cessna Citation 560XLS+",
+      "unit": "EHA Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLA",
+      "type": "B737-700",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLB",
+      "type": "B737-700",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLC",
+      "type": "B737-900",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLD",
+      "type": "B737-900",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLF",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLG",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLJ",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLK",
+      "type": "BEECH KING AIR C-90A",
+      "unit": "Flaps Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLM",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SLP",
+      "type": "B737-700",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SMK",
+      "type": "BELL-429",
+      "unit": "Span Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SMR",
+      "type": "B 200 GT",
+      "unit": "Span Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SMS",
+      "type": "King Air 250 (B200GT)",
+      "unit": "Empire Aircraft Management Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SNB",
+      "type": "P-180 AVANTI II",
+      "unit": "MSPL",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SNP",
+      "type": "GULFSTREAM G-200",
+      "unit": "Sobha Puravankara Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SQA",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SQB",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SQC",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SQD",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SQE",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SQI",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SRC",
+      "type": "BEECHCRAFT KING AIR B200",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SRE",
+      "type": "CITATION 525A CJ2+",
+      "unit": "Rithwik Green Power and Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SRK",
+      "type": "BEECHCRAFT PREMIER 1A-390",
+      "unit": "Saffron Strokes",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SSF",
+      "type": "HAWKER BEECHCRAFT (PREMIER 1A)",
+      "unit": "Simm Samm Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SSJ",
+      "type": "CESSNA 206H",
+      "unit": "Fairwinds Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SSO",
+      "type": "SIKORSKY S-76C++",
+      "unit": "Simm Samm Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SSR",
+      "type": "EMB-135 (LEGACY 600)",
+      "unit": "FLYSBS AVIATION",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUB",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUD",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUE",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUG",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUH",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUI",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUJ",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUK",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUL",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUM",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUO",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUP",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUQ",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUR",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUS",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUV",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SUY",
+      "type": "Q400",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SXA",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SXE",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SYI",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SYJ",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SYT",
+      "type": "B737-700",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SYU",
+      "type": "B737-700",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SYZ",
+      "type": "B737-800",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-SZL",
+      "type": "B737-900",
+      "unit": "SpiceJet",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TAA",
+      "type": "P68 Obeserver-2",
+      "unit": "Pinnacle Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TAT",
+      "type": "FALCON 2000",
+      "unit": "Tara Aviation Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TAZ",
+      "type": "Cessna Citation 560XL",
+      "unit": "Zest Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TBC",
+      "type": "BELL 407",
+      "unit": "Trans Bharat Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TBF",
+      "type": "BELL 407",
+      "unit": "Trans Bharat Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TBT",
+      "type": "FALCON 2000",
+      "unit": "RPS Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TDT",
+      "type": "FALCON 2000 LX",
+      "unit": "Taj Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TEN",
+      "type": "Embraer EMB135BJ (Legacy 650)",
+      "unit": "Arrow Aircrafts Sales & Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TGG",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TGH",
+      "type": "B737-800",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TIS",
+      "type": "King Air C90A",
+      "unit": "Jhankar Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TKG",
+      "type": "PC-12/47E",
+      "unit": "Tara Aviation Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TLC",
+      "type": "P68C",
+      "unit": "Wings Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNB",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNC",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNE",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNF",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNH",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNI",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNJ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNK",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNL",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNM",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNN",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNP",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNQ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNR",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNS",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNU",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNV",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNW",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNX",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNY",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TNZ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TOP",
+      "type": "AW169",
+      "unit": "Arrow Aircrafts Sales & Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQA",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQB",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQC",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQD",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQE",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQF",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQG",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQH",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQI",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQJ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQK",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQL",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQM",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQN",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQO",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQP",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQQ",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQR",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQS",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQT",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQU",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQV",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQW",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TQX",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TRI",
+      "type": "LEARJET-45 XR",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TSD",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TSE",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TSG",
+      "type": "Hawker 900XP",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TSH",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TSN",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TSO",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TSP",
+      "type": "B787-9",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TUS",
+      "type": "GLOBAL EXPRESS XRS",
+      "unit": "Zest Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVA",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVB",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVC",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVD",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVE",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVF",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVG",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVH",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVI",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVJ",
+      "type": "A321-251NX",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TVM",
+      "type": "CITATION 525A CJ2+",
+      "unit": "Rithwik Green Power and Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TWJ",
+      "type": "FALCON 2000 EX EASY",
+      "unit": "Transworld Jets",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TWO",
+      "type": "AW139",
+      "unit": "Universal Airways",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TYA",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TYB",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TYC",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TYD",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TYE",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TYF",
+      "type": "A320-251N",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-TYG",
+      "type": "A320-251N",
+      "unit": "Air India",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-UDA",
+      "type": "ATR42-500",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-UDB",
+      "type": "ATR42-500",
+      "unit": "Alliance Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-UDY",
+      "type": "AS 350 B3",
+      "unit": "Deccan Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-UHE",
+      "type": "AS350B3",
+      "unit": "United Helicharters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-UPA",
+      "type": "BEECHCRAFT 300LW",
+      "unit": "Jhankar Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-UYK",
+      "type": "Hawker 800XP",
+      "unit": "Vimaan Airlines",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VAD",
+      "type": "AS 350 B3 ECUREUIL",
+      "unit": "Indocopters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VAK",
+      "type": "CESSNA CARAVAN 208B",
+      "unit": "Ventura Airconnect",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VAM",
+      "type": "CESSNA CARAVAN 208B",
+      "unit": "Ventura Airconnect",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VAP",
+      "type": "Hawker800XP",
+      "unit": "Sai Construction",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VBS",
+      "type": "King Air C90A",
+      "unit": "Jhankar Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VEL",
+      "type": "G-200",
+      "unit": "Pinnacle Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VIK",
+      "type": "EMB-135 (LEGACY 600)",
+      "unit": "Rithwik Green Power and Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VIN",
+      "type": "King Air B200 GT",
+      "unit": "Rithwik Green Power and Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VKK",
+      "type": "Cessna Grand Caravan 208B",
+      "unit": "IndiaOne Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VNS",
+      "type": "A320-216",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VRA",
+      "type": "LEARJET-40 XR",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VRL",
+      "type": "BEECHCRAFT PREMIER 1A",
+      "unit": "NIBE AERONAUTICS",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VRR",
+      "type": "LEARJET-45XR",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VRS",
+      "type": "LEARJET-40XR",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VRV",
+      "type": "LEARJET-45 XR",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VSB",
+      "type": "AS350B3E",
+      "unit": "Kestrel Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VSG",
+      "type": "EMB 135 (Legacy600)",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VSK",
+      "type": "AS350B3E",
+      "unit": "Kestrel Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VSR",
+      "type": "Agusta A109E",
+      "unit": "Golden Crane Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VSS",
+      "type": "EMB 135 (Legacy600)",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VSV",
+      "type": "EMB 135 BJ (Legacy650)",
+      "unit": "VSR Ventures",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-VTZ",
+      "type": "A320-214",
+      "unit": "Air India Express",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-WCL",
+      "type": "AW169",
+      "unit": "Property Ventures (India)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-WOW",
+      "type": "CAMERON A-105 (HOT AIR BALLOON)",
+      "unit": "E-Factor Adventure Tourism (P)",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-XIA",
+      "type": "TECNAM P2010TDI",
+      "unit": "Aviation Connectivity & Infrastructure Developers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-XIB",
+      "type": "TECNAM P2010TDI",
+      "unit": "Aviation Connectivity & Infrastructure Developers",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAA",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAB",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAC",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAD",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAE",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAF",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAG",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAH",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAI",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAJ",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAK",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAL",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAM",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAN",
+      "type": "BEECH SKA B200GT",
+      "unit": "Arrow Aircrafts Sales & Charters",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAO",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAP",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAQ",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAR",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAS",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAT",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAU",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAV",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAW",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YAX",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBA",
+      "type": "B737-8",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBB",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBC",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBD",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBE",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBF",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBG",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBH",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBI",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBJ",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBK",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBL",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBM",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBN",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBO",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBP",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBQ",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YBR",
+      "type": "B737-8200",
+      "unit": "Akasa Air",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YUD",
+      "type": "Beech Super King Air B200",
+      "unit": "Aerokalinga Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-YVV",
+      "type": "Falcon 6X",
+      "unit": "Air Charters Services",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ZEN",
+      "type": "AW109SP",
+      "unit": "Indo Pacific Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ZIN",
+      "type": "BELL206 L4",
+      "unit": "Dhillon Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ZJM",
+      "type": "ROBINSON-44 RAVEN II",
+      "unit": "Jet Serve Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ZST",
+      "type": "CHALLENGER CL 600-2B16-CL 604",
+      "unit": "Dunes Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ZTP",
+      "type": "BD-700-1A11 (GLOBAL 5500)",
+      "unit": "Zest Aviation",
+      "status": "",
+      "updated": ""
+    },
+    {
+      "id": "VT-ZTT",
+      "type": "CHALLENGER 650 CL-600-2B16",
+      "unit": "Zest Aviation",
+      "status": "",
+      "updated": ""
+    }
+  ],
+  "maintenance": [],
+  "telemetry": [],
+  "parts": []
+}
