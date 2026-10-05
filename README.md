@@ -12,6 +12,12 @@ Aeroguard AI is a local web prototype for exploring aircraft fleet records, main
 
 The launcher uses the bundled Node.js runtime configured on the development computer. The backend listens on `127.0.0.1:3030` and stores imported records in `backend/data/records.json`. Opening `outputs/index.html` directly runs the browser-only version and will not connect to the backend.
 
+## Deploy to Vercel
+
+The repository includes `vercel.json` and serverless functions under `api/`. Import this project into Vercel with the project root as the **Root Directory**; Vercel serves the static app from `outputs/` and deploys the public-data functions automatically. There is no frontend build step. The public refresh buttons call same-origin functions at `/api/public/...`.
+
+On Vercel, imported aircraft, maintenance, telemetry, and parts records are saved in that user's browser storage. They are not shared between users or devices and are not written to a cloud database. The local development backend continues to use `backend/data/records.json`. Add a database before using the app for shared team records; do not put sensitive defence information in this public demo deployment.
+
 ## What is in the prototype
 
 - **Overview:** Fleet, maintenance, sensor-alert, and inventory summaries based on saved records. The interactive chart can group records by operator, aircraft type, serviceability status, maintenance status or priority, parts location or reorder risk, and sensor. Search the chart categories and choose a local-record refresh interval.

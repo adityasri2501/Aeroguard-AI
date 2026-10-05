@@ -18,3 +18,9 @@ work/ppt_build/slide-*.png
 work/ppt_build/slide-*.layout.json
 work/ppt_build/*.inspect.ndjson
 work/ppt_build/air-power.validation.json
+
+# Vercel local project link and secrets
+.vercel/
+.env.local
+.env.*.local
+
