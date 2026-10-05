@@ -1,6 +1,6 @@
-# AirOps — Predictive Maintenance & Fleet Availability Prototype
+# Aeroguard AI — Predictive Maintenance & Fleet Availability Prototype
 
-AirOps is a local web prototype for exploring aircraft fleet records, maintenance work orders, sensor readings, spare-parts inventory, and public aviation data. It is designed around the Indian Air Power predictive-maintenance problem statement.
+Aeroguard AI is a local web prototype for exploring aircraft fleet records, maintenance work orders, sensor readings, spare-parts inventory, and public aviation data. It is designed around the Indian Air Power predictive-maintenance problem statement.
 
 > **Data boundary:** Public defence aircraft serviceability, maintenance, spares, and telemetry data are not included. The prototype does not invent these values. Import authorized records to use the operational dashboards. Public aviation figures and civil aircraft registrations are context only; they do not describe defence readiness.
 

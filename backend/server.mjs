@@ -8,7 +8,7 @@ const OUTPUTS = path.join(ROOT, 'outputs');
 const STORE_DIR = path.join(path.dirname(fileURLToPath(import.meta.url)), 'data');
 const STORE = path.join(STORE_DIR, 'records.json');
 const HOST = '127.0.0.1';
-const PORT = Number(process.env.AIROPS_PORT || 3030);
+const PORT = Number(process.env.AEROGUARD_AI_PORT || 3030);
 const kinds = ['aircraft', 'maintenance', 'telemetry', 'parts'];
 const blank = () => Object.fromEntries(kinds.map(k => [k, []]));
 
@@ -124,7 +124,7 @@ const staticFiles = new Map([
 const server = http.createServer(async (req, res) => {
   try {
     const url = new URL(req.url, `http://${HOST}:${PORT}`);
-    if (req.method === 'GET' && url.pathname === '/api/health') return send(res, 200, { ok: true, service: 'AirOps local prototype backend', storage: 'local JSON file' });
+    if (req.method === 'GET' && url.pathname === '/api/health') return send(res, 200, { ok: true, service: 'Aeroguard AI local prototype backend', storage: 'local JSON file' });
     if (req.method === 'GET' && url.pathname === '/api/records') return send(res, 200, await readStore());
     if (req.method === 'POST' && url.pathname === '/api/records/import') {
       const payload = await bodyJson(req), kind = payload.type;
@@ -186,4 +186,4 @@ server.on('error', err => {
   console.error(err.code === 'EADDRINUSE' ? `Port ${PORT} is already in use.` : err.message);
   process.exitCode = 1;
 });
-server.listen(PORT, HOST, () => console.log(`AirOps backend ready at http://${HOST}:${PORT}\nLocal record storage: ${STORE}\nPress Ctrl+C to stop.`));
+server.listen(PORT, HOST, () => console.log(`Aeroguard AI backend ready at http://${HOST}:${PORT}\nLocal record storage: ${STORE}\nPress Ctrl+C to stop.`));
